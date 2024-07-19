@@ -46,7 +46,13 @@
 
 ###
 
-<p align="left">-The Design Shop : https://lisayl1688.github.io/Project-The-Design-Shop/ <br>-California Calling : https://lisayl1688.github.io/ProjectCaliforniaCallingV2/ <br>-Project Roma : https://lisayl1688.github.io/Project-Roma/ <br>-QuizMe : https://lisayl1688.github.io/QuizMe/ -FakeShop : <br> https://lisayl1688.github.io/FakeShop/ <br>-Zoo : https://lisayl1688.github.io/ProjectZoo/</p>
+<p align="left">-The Design Shop : https://lisayl1688.github.io/Project-The-Design-Shop/ </p>
+<p align="left">-California Calling : https://lisayl1688.github.io/ProjectCaliforniaCallingV2/ </p>
+<p align="left">-Project Roma : https://lisayl1688.github.io/Project-Roma/ </p>
+<p align="left">-QuizMe : https://lisayl1688.github.io/QuizMe/ </p>
+<p align="left">-FakeShop : <br> https://lisayl1688.github.io/FakeShop/ </p>
+<p align="left">-Zoo : https://lisayl1688.github.io/ProjectZoo/</p>
+<p align="left">-RockPaperScissors : https://scheresteinpapier1688.netlify.app/ </p>
 
 ###
 
@@ -56,9 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lisayl1688/lisayl1688/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
