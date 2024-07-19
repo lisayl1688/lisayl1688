@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">Feel free to look at some of my Projects:</p>
+<h2 align="left">Feel free to look at some of my Projects</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 <p align="left">-California Calling : https://lisayl1688.github.io/ProjectCaliforniaCallingV2/ </p>
 <p align="left">-Project Roma : https://lisayl1688.github.io/Project-Roma/ </p>
 <p align="left">-QuizMe : https://lisayl1688.github.io/QuizMe/ </p>
-<p align="left">-FakeShop : <br> https://lisayl1688.github.io/FakeShop/ </p>
+<p align="left">-FakeShop : https://lisayl1688.github.io/FakeShop/ </p>
 <p align="left">-Zoo : https://lisayl1688.github.io/ProjectZoo/</p>
 <p align="left">-RockPaperScissors : https://scheresteinpapier1688.netlify.app/ </p>
 
