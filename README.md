@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lisa and I'm a Frontend-Developer, from Cologne</p>
+<p align="left">My name is Lisa and I'm a Frontend-Developer from Cologne</p>
 
 ###
 
